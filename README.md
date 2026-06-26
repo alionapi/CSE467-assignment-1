@@ -1,7 +1,7 @@
 # CSE467-assignment-1
 CSE467: Computer Security | Spring 2026 | Cryptography
 
-# CSE467 Assignment #1
+
 
 Cryptography Attacks and Vulnerability Analysis
 
