@@ -1,11 +1,7 @@
 # CSE467-assignment-1
-CSE467: Computer Security | Spring 2026 | Cryptography
+CSE467: Computer Security | Spring 2026 | Cryptography Attacks and Vulnerability Analysis
 
 
-
-Cryptography Attacks and Vulnerability Analysis
-
-## Overview
 
 This project explores several classical and modern cryptographic vulnerabilities through practical attacks and implementations. The assignment covers stream cipher key reuse, hash length extension attacks, and RSA signature forgery.
 
